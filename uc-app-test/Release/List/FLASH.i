@@ -1,0 +1,1 @@
+#pragma language=default
